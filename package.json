@@ -1,7 +1,7 @@
 {
-  "name": "cake-bootstrap-daterangepicker",
-  "version": "2.1.20",
-  "description": "Date range picker component for Bootstrap(Forked)",
+  "name": "bootstrap-daterangepicker",
+  "version": "2.1.25",
+  "description": "Date range picker component for Bootstrap",
   "main": "daterangepicker.js",
   "style": "daterangepicker.css",
   "scripts": {
